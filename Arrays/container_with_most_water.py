@@ -20,7 +20,7 @@ class Solution(object):
 
 def main():
     sol = Solution()
-    height = [1,3,2,5,25,24,5]
+    height = [1,8,6,2,5,4,8,3,7]
     result = sol.maxArea(height)
     print(result)
 
